@@ -5,7 +5,7 @@ export default function Navbar(){
         <div>
             <nav className="Nav">
             
-                <p>my travel journal</p>
+                <p>My Travel Journal</p>
                 <span className="material-symbols-outlined flight-symbol">flight</span>
             </nav>
         </div>
